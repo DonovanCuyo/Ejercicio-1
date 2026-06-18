@@ -1,0 +1,24 @@
+Algoritmo proceso_matematico
+	Definir e como real;
+	Definir f como real;
+	Escribir "Ingrese el primer numero";
+	Leer a;
+	
+	Escribir "Ingrese el segundo numero";
+	Leer b;
+	
+	Escribir "Ingrese el tercer numero";
+	Leer c;
+	
+	Escribir "Ingrese el cuarto numero";
+	Leer d;
+	
+	e <- a + b;
+	e <- e - 4;
+	e <- e ^ 2;
+	
+	f <- c * d;
+	
+	e <- e/f;
+	Escribir "Este es el resultado final: ", e;
+FinAlgoritmo
