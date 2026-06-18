@@ -1,0 +1,5 @@
+Proceso ejemplo
+	Definir num1 Como Entero;
+	leer num1;
+	
+FinProceso
