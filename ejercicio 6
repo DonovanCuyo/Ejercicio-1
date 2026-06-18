@@ -1,0 +1,12 @@
+Algoritmo area_triangulo
+	Definir e como real;
+	Escribir "Ingrese la altura";
+	Leer a;
+	
+	Escribir "Ingrese la base";
+	Leer b;
+	
+	e <- a*b
+	e <-e/2
+	Escribir "Este es el resultado final: ", e;
+FinAlgoritmo
