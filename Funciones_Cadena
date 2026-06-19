@@ -1,0 +1,16 @@
+Proceso Funciones_cadena
+	Definir cad1, cad2 como cadena;
+	Definir num Como Entero;
+	cad1 <- "informatica";
+	Escribir "La longitud de cad1 es ",Longitud(cad1);
+	Escribir "El primer caracter de cad1 es ",Subcadena(cad1,0,0);
+	Escribir "El ultimo caracter de cad1 es ",Subcadena(cad1,Longitud(cad1)-1,Longitud(cad1)-1);
+	Escribir "La cad1 en mayusculas es ",Mayusculas(cad1);
+	cad2<-Concatenar(cad1," es muy interesante");
+	Escribir cad2;
+	num <-ConvertirANumero("10");
+	Escribir num;
+	Escribir Concatenar("eL numero es ", ConvertirATexto(num));
+	Escribir "El numero es ", num;
+FinProceso
+	
