@@ -1,0 +1,8 @@
+Algoritmo BUCLE_NUMEROS_21
+	// Se pone el for para realizar el contador desde 0 de dos en dos hasta 10
+	Para i<- 2 Hasta 10 con paso 2 Hacer
+		escribir i
+	FinPara
+	Esperar Tecla 
+	Limpiar Pantalla
+FinAlgoritmo
