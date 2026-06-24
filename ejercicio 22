@@ -1,4 +1,4 @@
-Algoritmo BUCLE_NUMEROS_21
+Algoritmo BUCLE_NUMEROS_22
 	// Se pone el for para realizar el contador desde 0 de 3 en 3 hasta 33
 	Para i<- 3 Hasta 33 con paso 3 Hacer
 		escribir i
