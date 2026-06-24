@@ -1,0 +1,6 @@
+Algoritmo BUCLE_NUMEROS_20
+	// Se pone el for para realizar el contador desde 0 de dos en dos hasta 10
+	Para i<- 0 Hasta 10 con paso 2 Hacer
+		escribir i
+	FinPara
+FinAlgoritmo
