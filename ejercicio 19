@@ -1,9 +1,1 @@
-Algoritmo BUCLE_NUMEROS
-	Definir num Como Entero
-	Repetir
-		Escribir "Ingrese un numero"
-		Leer num
-		Escribir num
-		Limpiar Pantalla
-	Hasta Que num == 0
-FinAlgoritmo
+
