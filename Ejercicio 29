@@ -1,0 +1,32 @@
+SubProceso validarIngreso (nombre,edad)
+	Si edad >=18
+		Escribir "Acceso concedido"
+	SiNo
+		Escribir "Acceso Denegado"
+	FinSi
+FinSubProceso
+Algoritmo Ejercicio_29
+	Definir usuario Como Caracter
+	Definir edadUsuario Como Entero
+	usuario <- "Carlos";
+	edadUsuario <- 20;
+	validarIngreso(usuario, edadUsuario);
+FinAlgoritmo
+
+
+// Segundo codigo con el nombre propio
+SubProceso validarIngreso (nombre,edad)
+	Escribir "Ingrese su nombre"
+	Leer nombre
+	Escribir "Ingrese su edad"
+	Leer edad
+	Si edad < 18
+		Escribir "Acceso Denegado"
+	SiNo
+		Escribir "Acceso Concedido"
+	FinSi
+FinSubProceso
+Algoritmo Ejercicio_29
+	Definir nombre Como Caracter
+	validarIngreso(usuario, edadUsuario);
+FinAlgoritmo
